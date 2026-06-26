@@ -1,10 +1,6 @@
 🐘 Memória de Elefante
 Um jogo da memória interativo desenvolvido com CustomTkinter, oferecendo múltiplos temas visuais para testar e aprimorar sua memória!
 
-[https://img.shields.io/badge/python-3.7+-blue.svg]
-[https://img.shields.io/badge/CustomTkinter-5.2.0+-green.svg]
-[https://img.shields.io/badge/license-GPLv3-red.svg]
-
 📋 Visão Geral
 O Memória de Elefante é um jogo clássico de memória onde o jogador deve encontrar pares de cartões idênticos. O jogo oferece 5 temas diferentes para manter a diversão sempre variada e desafiadora.
 
